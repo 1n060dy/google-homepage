@@ -1,12 +1,32 @@
 .main {
   position: fixed;
-  top: 30%;
+  top: 20%;
   left: 50%;
-  margin-top: -46px;
   margin-left: -136px;
-  
 }
-img {
+#logo {
   width: 272px;
   height: 92px;
+}
+ul {
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+li {
+    display: inline;
+    float: right;
+}
+a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.75;
+}
+a.hover {
+
 }
