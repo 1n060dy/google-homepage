@@ -1,3 +1,12 @@
-div {
+.main {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-top: -46px;
+  margin-left: -136px;
   
+}
+img {
+  width: 272px;
+  height: 92px;
 }
